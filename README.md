@@ -60,3 +60,26 @@ The results of the weather analysis are as follows:
 
 ## Summary
 
+
+|| June Precipitation |
+| ------ | ---------- |
+|count | 1574.000000|
+|mean | 0.136360|
+|std	| 0.335731|
+|min	| 0.000000|
+|25%	| 0.000000|
+|50%	| 0.020000|
+|75%	| 0.120000|
+|max	| 4.430000|
+
+
+|| December Precipitation |
+| ------ | ---------- |
+|count | 1405.000000|
+|mean | 0.216819|
+|std	| 0.541399|
+|min	| 0.000000|
+|25%	| 0.000000|
+|50%	| 0.030000|
+|75%	| 0.150000|
+|max	| 6.420000|
