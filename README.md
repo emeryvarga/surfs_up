@@ -51,6 +51,11 @@ Temperatures for the month of December are summarized in *Table 2* below.
 
 ## Results
 
+The results of the weather analysis are as follows:
+
+* The average temperatures for June and December are 74.9 F and 71.0 F, respectively, a difference of approximately 4 degrees.
+* The minimum temperatures are 64.0 F and 56.0 F for the months of June and December, respectively.
+* The maximum temperatures 85.0 F and 83.0 F for the months of June and December, respectively.
 
 
 ## Summary
