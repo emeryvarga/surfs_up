@@ -7,10 +7,15 @@ The purpose of this project is to generate alist of all empoyees eligible for a 
 
 ## Resources
 
+* hawaii.sqlite
 
 ## Development Environment
 
-* PostgreSQL
+* Flask
+* Jupyter Notebook
+* Python SQL Lite
+* SQLAlchemy
+
 
 ## Deliverable 1: Determine the Summary Statistics for June
 
