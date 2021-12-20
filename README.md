@@ -34,9 +34,20 @@ Temperatures for the month of June are summarized in *Table 1* below.
 
 ## Deliverable 2: Determine the Summary Statistics for December
 
+Temperatures for the month of December are summarized in *Table 2* below.
 
+|| December Temps |
+| ------ | ---------- |
+|count | 1517.000000|
+|mean | 71.041529|
+|std	| 3.745920|
+|min	| 56.000000|
+|25%	| 69.000000|
+|50%	| 71.000000|
+|75%	| 74.000000|
+|max	| 83.000000|
 
-
+**Table 2: December Temperatures**
 
 ## Results
 
