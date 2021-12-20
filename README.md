@@ -17,7 +17,20 @@ This project provides an upcoming investor of a surf and ice cream shop with a w
 
 ## Deliverable 1: Determine the Summary Statistics for June
 
+Temperatures for the month of June are summarized in *Table 1* below.
 
+|| June Temps |
+| ------ | ---------- |
+|count |	1700.000000|
+|mean | 74.944118|
+|std	| 3.257417|
+|min	| 64.000000|
+|25%	| 73.000000|
+|50%	| 75.000000|
+|75%	| 77.000000|
+|max	| 85.000000|
+
+**Table 1: June Temperatures**
 
 ## Deliverable 2: Determine the Summary Statistics for December
 
