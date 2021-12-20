@@ -60,6 +60,9 @@ The results of the weather analysis are as follows:
 
 ## Summary
 
+June and December have similar weather patterns. Both months exhibit warm temperatures, ideal for grabbing an ice cream cone after a day of surfing.
+
+W. Avy, the upcoming investor, expressed his concern for the amount of precipitation on Oahu. He specified there needs to be enough rain to keep everything green, but not so much that you lose out on that ideal surfing and ice cream weather. Analyses on precipitation in June and December are summarized in *Table 3* and *Table 4* below:
 
 || June Precipitation |
 | ------ | ---------- |
@@ -72,6 +75,8 @@ The results of the weather analysis are as follows:
 |75%	| 0.120000|
 |max	| 4.430000|
 
+**Table 3: June Precipitation**
+
 
 || December Precipitation |
 | ------ | ---------- |
@@ -83,3 +88,5 @@ The results of the weather analysis are as follows:
 |50%	| 0.030000|
 |75%	| 0.150000|
 |max	| 6.420000|
+
+**Table 4: December Precipitation**
