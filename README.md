@@ -1,13 +1,11 @@
 # Surfs_up
 ## Project Overview
 
-The purpose of this project is to generate alist of all empoyees eligible for a retirement package at Perlett Hackard and determine which positions will need to be filled in the next few years.
-
-
+This project provides an upcoming investor of a surf and ice cream shop with a weather analysis on the island of Oahu, Hawaii. Statistics are provided for June and December, the peak tourism months, to determine whether the ice cream and surf shop will have good weather conditions in which to operate.
 
 ## Resources
 
-* hawaii.sqlite
+* [hawaii.sqlite](hawaii.sqlite)
 
 ## Development Environment
 
