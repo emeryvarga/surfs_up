@@ -10,7 +10,7 @@ from flask import Flask
 from flask import Flask, jsonify
 
 # Access the SQLite database
-engine = create_engine("sqlite:///hawaii.sqlite")
+engine = create_engine("sqlite:///hawaii.sqlite",connect_args={'check_same_thread': False})
 
 # Access and query our SQLite database file
 Base = automap_base()
@@ -33,11 +33,11 @@ def welcome():
     return(
     '''
     Welcome to the Climate Analysis API!
-    Available Routes:
-    /api/v1.0/precipitation
-    /api/v1.0/stations
-    /api/v1.0/tobs
-    /api/v1.0/temp/start/end
+    Available Routes:<br>
+    /api/v1.0/precipitation<br>
+    /api/v1.0/stations<br>
+    /api/v1.0/tobs<br>
+    /api/v1.0/temp/start/end<br>
     ''')
 
 @app.route("/api/v1.0/precipitation")
@@ -79,3 +79,6 @@ def stats(start=None, end=None):
         filter(Measurement.date <= end).all()
     temps = list(np.ravel(results))
     return jsonify(temps)
+
+if __name__ == '__main__':
+    app.run(debug=True)
